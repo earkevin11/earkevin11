@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin!
 - ✨ I'm a current Cybersecurity Analyst
-- 🌱 Key words that describe me: Self-motivated, lifelong-learner, and growth-mindset
+- 🌱 Key words that describe me: Self-motivated, lifelong-learner, collaborator, and growth-mindset
 - 👀 I’m interested in Cybersecurity, Networking, Linux, Python, and Cloud 
 - 🔔 I’m currently learning Azure Cloud Security Technologies
 - 📫 How to reach me? [Click Here!](https://www.linkedin.com/in/kevin-ear/)
