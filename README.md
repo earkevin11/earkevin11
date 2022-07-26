@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin!
-- ✨ I'm a current Cybersecurity Analyst
+- ✨ I'm a current Cybersecurity Professional
 - 🌱 Key words that describe me: Self-motivated, lifelong-learner, collaborator, and growth-mindset
 - 👀 I’m interested in Cybersecurity, Networking, Linux, Python, and Cloud 
 - 🔔 I’m currently learning Azure Cloud Security Technologies
