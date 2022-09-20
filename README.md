@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Kevin!
 - ✨ I'm a current Cybersecurity Professional
 - 🌱 Key words that describe me: Self-motivated, lifelong-learner, collaborator, and growth-mindset
-- 👀 I’m interested in Cybersecurity, Networking, Linux, Python, and Cloud 
+- 👀 I’m interested in Cybersecurity, Networking, Python, and Cloud 
 - 🔔 I’m currently learning Azure Cloud Security Technologies
-- 📫 How to reach me? [Click Here!](https://www.linkedin.com/in/kevin-ear/)
+
 
 <!---
 earkevin11/earkevin11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
