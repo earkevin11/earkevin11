@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin!
-- ✨ I'm a current Cybersecurity Professional
+- ✨ I'm a current Cybersecurity and Cloud Engineer
 - 🌱 Key words that describe me: Self-motivated, lifelong-learner, collaborator, and growth-mindset
 - 👀 I’m interested in Cybersecurity..
 - 🔔 I’m currently learning...
