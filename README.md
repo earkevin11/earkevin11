@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin!
-- ✨ I'm a current Cybersecurity and Cloud Support Engineer
+- ✨ Cybersecurity and Cloud 
 - 🌱 Key words that describe me: Lifelong-learner, Collaborator, and Growth-Mindset
 - 👀 I’m currently learning Spanish, Python, and Azure Cloud
 
