@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin!
 - ✨ Cybersecurity and Cloud 
 - 🌱 Key words that describe me: Lifelong-learner, Collaborator, and Growth-Mindset
-- 👀 I’m currently learning Spanish, Python, and Azure Cloud
+- 👀 I’m currently learning Spanish, Python, and Azure Security and Identity technologies
 
 
 <!---
