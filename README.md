@@ -3,7 +3,7 @@
 - 🌱 Key words that describe me: Lifelong-Learner, Collaborator, and Growth-Mindset
 - 👀 I’m currently learning Spanish, Python, and Azure Security & Identity technologies
 - 💡  Key Skills: Strong Communicator, Desire to Learn, Excellent Collaborator 
-- 🏀 Hobbies: Basketball, Weight-Lifting, Learning Spanish, and Video Games
+- 🏀 Hobbies: Basketball, Pickleball, Weight-Lifting, Learning Spanish, and Video Games
 
 
 <!---
