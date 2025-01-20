@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Kevin!
 - ✨ Cloud Security and Software Development
 - 🌱 Key words that describe me: Lifelong-Learner, Collaborator, Problem-Solver, and Growth-Mindset
-- 📗 Currently learning Azure and AWS, React.JS, C# and .NET Core.
+- 📗 Currently learning Azure and AWS, React.JS
 - 👀 Experience with Automating with Python, building interactive and user friendly user interfaces, and cloud.
-- 💡  Key Skills: Collaborative Problem Solving, Strong Communicator, Desire to Learn, Excellent Collaborator 
+- 💡 Key Skills: Collaborative Problem Solving, Strong Communicator, Desire to Learn, Solutions-Oriented
 - 🏀 Hobbies: Basketball, Pickleball, Weight-Lifting, Learning Spanish, and Video Games
 
 
