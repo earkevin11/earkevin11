@@ -18,15 +18,15 @@
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/e790079e-f2db-48cf-ae84-6236f9d014bd" width="120"/><br/>
-      <a href=> AZ-500 </a>
+      <a href="https://learn.microsoft.com/en-us/users/KevinEar-2742/credentials/8C273DE4AB982FA4?ref=https%3A%2F%2Fgithub.com%2Fearkevin11%2Fkevinear-experience%3Ftab%3Dreadme-ov-file"> AZ-500 </a>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/f16cf2a1-0d23-4339-9c78-ddbc17e423a9" width="120"/><br/>
-      <a href=> Security+ Certified </a>
+      <a href="https://www.credly.com/badges/9fbe72d0-aa94-4893-9469-ec09e0a2fcda/linked_in_profile"> Security+ Certified </a>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/b3ccdd91-47ca-4263-a984-cc4b05a1f005" width="120"/><br/>
-      <a href=> Azure Cloud Fundamentals </a>
+      <a href="https://learn.microsoft.com/en-us/users/KevinEar-2742/credentials/D7A87322DAEAADE7?ref=https%3a%2f%2fgithub.com%2fearkevin11%2fkevinear-experience%3ftab%3dreadme-ov-file"> Azure Cloud Fundamentals </a>
     </td>
   </tr>
 </table>
