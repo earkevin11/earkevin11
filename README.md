@@ -7,6 +7,33 @@
 
 ![image](https://github.com/user-attachments/assets/666b03af-d342-42f4-a043-8e65318f5229)
 
+<!-- <img src="https://github.com/user-attachments/assets/9fd81643-eb96-4f2f-9a16-2918d5655efc" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/e790079e-f2db-48cf-ae84-6236f9d014bd" width="200" height="200"> <a href="https://learn.microsoft.com/en-us/users/KevinEar-2742/credentials/8C273DE4AB982FA4?ref=https%3A%2F%2Fgithub.com%2Fearkevin11%2Fkevinear-experience%3Ftab%3Dreadme-ov-file"> AZ-500 </a></img>
+<img src="https://github.com/user-attachments/assets/083fb81f-29e5-4679-9ac2-74e251475970" width="200" height="200">
+
+-->
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e790079e-f2db-48cf-ae84-6236f9d014bd" width="120"/><br/>
+      <a href=> AZ-500 </a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f16cf2a1-0d23-4339-9c78-ddbc17e423a9" width="120"/><br/>
+      <a href=> Security+ Certified </a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b3ccdd91-47ca-4263-a984-cc4b05a1f005" width="120"/><br/>
+      <a href=> Azure Cloud Fundamentals </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 <!---
