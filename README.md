@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin!
 - 🌱 Key words that describe me: Lifelong-Learner, Collaborator, Problem-Solver, and Growth-Mindset
-- 📗 Currently learning: Azure/AWS, C# and dotnet, and React.JS
+- 📗 Currently learning: Azure/AWS, Software Development (C# and .NET), and React
 - 👀 Experience building simple automation using Python, building interactive and user friendly interfaces using React, and Azure Security
 - 🏀 Hobbies: Basketball, Pickleball, Weight-Lifting, Learning Spanish, and Video Games
 - 👨🏻‍💻 More info about me but in code! 
