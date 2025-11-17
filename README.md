@@ -28,6 +28,10 @@
       <img src="https://github.com/user-attachments/assets/b3ccdd91-47ca-4263-a984-cc4b05a1f005" width="120"/><br/>
       <a href="https://learn.microsoft.com/en-us/users/KevinEar-2742/credentials/D7A87322DAEAADE7?ref=https%3a%2f%2fgithub.com%2fearkevin11%2fkevinear-experience%3ftab%3dreadme-ov-file"> Azure Cloud Fundamentals </a>
     </td>
+     <td align="center">
+      <img src="https://github.com/user-attachments/assets/0151aa43-c01e-4b41-9107-4cf179d34ee1" width="120"/><br/>
+      <a href="https://www.credly.com/badges/7a1942bf-b0be-4233-b491-eb6107de5f6b/public_url)"> AWS Cloud Practioner </a>
+    </td>
   </tr>
 </table>
 
