@@ -30,7 +30,7 @@
     </td>
      <td align="center">
       <img src="https://github.com/user-attachments/assets/0151aa43-c01e-4b41-9107-4cf179d34ee1" width="120"/><br/>
-      <a href="https://www.credly.com/badges/7a1942bf-b0be-4233-b491-eb6107de5f6b/public_url)"> AWS Cloud Practioner </a>
+      <a href="https://www.credly.com/badges/7a1942bf-b0be-4233-b491-eb6107de5f6b/public_url)"> AWS Cloud Practitioner </a>
     </td>
   </tr>
 </table>
