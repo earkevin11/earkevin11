@@ -22,7 +22,7 @@
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/f16cf2a1-0d23-4339-9c78-ddbc17e423a9" width="120"/><br/>
-      <a href="https://www.credly.com/badges/9fbe72d0-aa94-4893-9469-ec09e0a2fcda/linked_in_profile"> Security+ Certified </a>
+      <a href="https://www.credly.com/badges/9fbe72d0-aa94-4893-9469-ec09e0a2fcda/linked_in_profile"> Security+ </a>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/b3ccdd91-47ca-4263-a984-cc4b05a1f005" width="120"/><br/>
