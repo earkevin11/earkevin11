@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin!
 - 🌱 Key words that describe me: Lifelong-Learner, Collaborator, Problem-Solver, and Growth-Mindset
 - 📗 Currently learning: AWS Security + Kubernetes and Containers
-- 👀 Experience building simple automation using Python, and Azure Security
+- 👀 Experience in Azure Cloud Security, Incident Response, and Cloud Security Posture Management
 - 🏀 Hobbies: Basketball, Pickleball, Weight-Lifting, Learning Spanish, and Video Games
 - 👨🏻‍💻 More info about me but in Python! 
 
