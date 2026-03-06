@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Trevino+Parker!)
+
 - 👋 Hi, I’m Kevin!
 - 🌱 Key words that describe me: Lifelong-Learner, Collaborator, Problem-Solver, and Growth-Mindset
 - 📗 Currently learning: Deepening my knowledge in Azure Security, developing AWS Security knowledge, and Kubernetes and Containers
