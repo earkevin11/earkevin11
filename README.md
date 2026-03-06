@@ -35,7 +35,7 @@
         </td>
      <td align="center">
       <img src="https://github.com/user-attachments/assets/5fe236ff-c74a-4cd2-b50d-a8b6076b006e" width="120" /><br/>
-      <a href="https://learn.microsoft.com/en-us/users/kevinear-2742/credentials/certification/security-compliance-and-identity-fundamentals?wt.mc_id=certnurture_eml14_email_wwl&tab=credentials-tab"> SC:900 Security, Compliance, and Identity Fundamentals </a>
+      <a href="https://learn.microsoft.com/en-us/users/kevinear-2742/credentials/certification/security-compliance-and-identity-fundamentals?wt.mc_id=certnurture_eml14_email_wwl&tab=credentials-tab"> SC-900 Security, Compliance, and Identity Fundamentals </a>
     </td>
   </tr>
 </table>
