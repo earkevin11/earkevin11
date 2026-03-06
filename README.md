@@ -18,7 +18,7 @@
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/e790079e-f2db-48cf-ae84-6236f9d014bd" width="120"/><br/>
-      <a href="https://learn.microsoft.com/en-us/users/KevinEar-2742/credentials/8C273DE4AB982FA4?ref=https%3A%2F%2Fgithub.com%2Fearkevin11%2Fkevinear-experience%3Ftab%3Dreadme-ov-file"> AZ-500 </a>
+      <a href="https://learn.microsoft.com/en-us/users/KevinEar-2742/credentials/8C273DE4AB982FA4?ref=https%3A%2F%2Fgithub.com%2Fearkevin11%2Fkevinear-experience%3Ftab%3Dreadme-ov-file"> AZ-500 Azure Security Engineer Associate </a>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/f16cf2a1-0d23-4339-9c78-ddbc17e423a9" width="120"/><br/>
@@ -31,6 +31,11 @@
      <td align="center">
       <img src="https://github.com/user-attachments/assets/0151aa43-c01e-4b41-9107-4cf179d34ee1" width="120"/><br/>
       <a href="https://www.credly.com/badges/7a1942bf-b0be-4233-b491-eb6107de5f6b/public_url)"> AWS Cloud Practitioner </a>
+    </td>
+        </td>
+     <td align="center">
+      <img src="https://github.com/user-attachments/assets/5fe236ff-c74a-4cd2-b50d-a8b6076b006e" width="120" /><br/>
+      <a href="https://learn.microsoft.com/en-us/users/kevinear-2742/credentials/certification/security-compliance-and-identity-fundamentals?wt.mc_id=certnurture_eml14_email_wwl&tab=credentials-tab"> SC:900 Security, Compliance, and Identity Fundamentals </a>
     </td>
   </tr>
 </table>
