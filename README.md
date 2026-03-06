@@ -1,7 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello!+👋;+I'm+Kevin!)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello!+👋;+I'm+Kevin!" />
+</p>
 
 - 🌱 Key words that describe me: Lifelong-Learner, Collaborator, Problem-Solver, and Growth-Mindset
-- 📗 Currently learning: Deepening my knowledge in Azure Security, developing AWS Security knowledge, and Kubernetes and Containers
+- 📗 Currently learning: Terraform + Kubernetes + Containers
 - 👀 Experience in Azure Cloud Security, Incident Response, and Cloud Security Posture Management
 - 🏀 Hobbies: Basketball, Pickleball, Weight-Lifting, Learning Spanish, and Video Games
 - 👨🏻‍💻 More info about me but in Python! 
