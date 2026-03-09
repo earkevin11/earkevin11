@@ -89,4 +89,5 @@
 </table>
 
 
-<h2 align="center">🏆 Projects </h2>
+<h2 align="center">🏆 Projects and Experiences </h2>
+https://github.com/earkevin11/kevinear-experience
