@@ -13,8 +13,6 @@
 - 👨🏻‍💻 More info about me but in Python! 
 
 
-## ⚙️ Tech Stack
-
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
@@ -89,3 +87,6 @@
 
 </tr>
 </table>
+
+
+<h2 align="center">🏆 Projects </h2>
