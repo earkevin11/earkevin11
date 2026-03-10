@@ -10,8 +10,6 @@
 - 📗 Currently learning: Terraform + Kubernetes + Containers
 - 👀 Experience in Azure Cloud Security, Incident Response, and Cloud Security Posture Management
 - 🏀 Hobbies: Basketball, Pickleball, Weight-Lifting, Learning Spanish, and Video Games
-- 👨🏻‍💻 More info about me but in Python! 
-
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
