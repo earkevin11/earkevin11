@@ -87,5 +87,14 @@
 </table>
 
 
-<h2 align="center">🏆 Projects and Experiences </h2>
-https://github.com/earkevin11/kevinear-experience
+<h2 align="center">🚀 Projects & Experience</h2>
+
+<p align="center">
+Explore my cloud security, automation, and DevSecOps projects.
+</p>
+
+<p align="center">
+  <a href="https://github.com/earkevin11/kevinear-experience">
+    <img src="https://img.shields.io/badge/View-Project%20Portfolio-blue?style=for-the-badge&logo=github"/>
+  </a>
+</p>
