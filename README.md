@@ -7,7 +7,7 @@
 
 
 - 🌱 Key words that describe me: Lifelong-Learner, Collaborator, Problem-Solver, and Growth-Mindset
-- 📗 Currently learning: Terraform + Kubernetes + Containers
+- 📗 Currently learning: AI Security + Terraform + Kubernetes + Containers
 - 👀 Experience in Azure Cloud Security, Incident Response, and Cloud Security Posture Management
 - 🏀 Hobbies: Basketball, Pickleball, Weight-Lifting, Learning Spanish, and Video Games
 
