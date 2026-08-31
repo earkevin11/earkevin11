@@ -83,6 +83,14 @@
   </a>
 </td>
 
+<td align="center" style="padding:10px;">
+  <a href="https://learn.microsoft.com/en-us/users/kevinear-2742/credentials/certification/security-compliance-and-identity-fundamentals">
+    <img src="https://learn.microsoft.com/en-us/users/kevinear-2742/credentials/certification/identity-and-access-administrator?tab=credentials-tab" width="110"/><br/>
+    <b>SC-300</b><br/>
+    Identity and Access Administrator Associate
+  </a>
+</td>
+
 </tr>
 </table>
 
