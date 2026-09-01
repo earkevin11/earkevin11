@@ -40,6 +40,8 @@
 
 <h2 align="center">🏆 Certifications</h2>
 
+## 🏆 Certifications
+
 <table align="center">
 <tr>
 
@@ -50,28 +52,11 @@
     Azure Security Engineer
   </a>
 </td>
-
-<td align="center" style="padding:10px;">
-  <a href="https://www.credly.com/badges/9fbe72d0-aa94-4893-9469-ec09e0a2fcda">
-    <img src="https://github.com/user-attachments/assets/f16cf2a1-0d23-4339-9c78-ddbc17e423a9" width="110"/><br/>
-    <b>Security+</b><br/>
-    CompTIA
-  </a>
-</td>
-
 <td align="center" style="padding:10px;">
   <a href="https://learn.microsoft.com/en-us/users/KevinEar-2742/credentials/D7A87322DAEAADE7">
     <img src="https://github.com/user-attachments/assets/b3ccdd91-47ca-4263-a984-cc4b05a1f005" width="110"/><br/>
     <b>AZ-900</b><br/>
     Azure Fundamentals
-  </a>
-</td>
-
-<td align="center" style="padding:10px;">
-  <a href="https://www.credly.com/badges/7a1942bf-b0be-4233-b491-eb6107de5f6b/public_url">
-    <img src="https://github.com/user-attachments/assets/0151aa43-c01e-4b41-9107-4cf179d34ee1" width="110"/><br/>
-    <b>AWS CCP</b><br/>
-    Cloud Practitioner
   </a>
 </td>
 
@@ -88,6 +73,22 @@
     <img src="https://github.com/user-attachments/assets/f418de2d-2a79-4011-b37b-a2b54ad7a14b" width="110"/><br/>
     <b>SC-300</b><br/>
     Identity and Access Administrator Associate
+  </a>
+</td>
+
+<td align="center" style="padding:10px;">
+  <a href="https://www.credly.com/badges/9fbe72d0-aa94-4893-9469-ec09e0a2fcda">
+    <img src="https://github.com/user-attachments/assets/f16cf2a1-0d23-4339-9c78-ddbc17e423a9" width="110"/><br/>
+    <b>Security+</b><br/>
+    CompTIA
+  </a>
+</td>
+
+<td align="center" style="padding:10px;">
+  <a href="https://www.credly.com/badges/7a1942bf-b0be-4233-b491-eb6107de5f6b/public_url">
+    <img src="https://github.com/user-attachments/assets/0151aa43-c01e-4b41-9107-4cf179d34ee1" width="110"/><br/>
+    <b>AWS CCP</b><br/>
+    Cloud Practitioner
   </a>
 </td>
 
