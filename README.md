@@ -62,7 +62,7 @@
 
 <td align="center" style="padding:10px;">
   <a href="https://learn.microsoft.com/en-us/users/kevinear-2742/credentials/certification/security-compliance-and-identity-fundamentals">
-    <img src="https://github.com/user-attachments/assets/5fe236ff-c74a-4cd2-b50d-a8b6076b006e" width="110"/><br/>
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="110"/><br/>
     <b>SC-900</b><br/>
     Security Compliance and Identity Fundamentals
   </a>
@@ -70,7 +70,7 @@
 
 <td align="center" style="padding:10px;">
   <a href="https://learn.microsoft.com/en-us/users/kevinear-2742/credentials/certification/identity-and-access-administrator?tab=credentials-tab" />
-    <img src="https://github.com/user-attachments/assets/f418de2d-2a79-4011-b37b-a2b54ad7a14b" width="110"/><br/>
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="110"/><br/>
     <b>SC-300</b><br/>
     Identity and Access Administrator Associate
   </a>
